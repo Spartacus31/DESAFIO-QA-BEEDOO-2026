@@ -11,3 +11,7 @@ Quais pontos do sistema você considera mais críticos para teste?
 - Exibição da lista de cursos: testar cenários como lista vazia, grande quantidade de cursos e possíveis duplicidades.
 - Navegação entre telas: garantir que os botões de navegação, como "Listar cursos" e "Cadastrar curso", direcionem corretamente para as respectivas páginas sem erros.
 - Tratamento de erros e feedbacks ao usuário: validar se o sistema apresenta mensagens claras em caso de falhas ou dados inválidos.
+  
+## Casos de teste
+Os cenários e casos de teste foram documentados na planilha abaixo:
+https://docs.google.com/spreadsheets/d/1P9_lkNOPuWbMjK42TXWorNKrJoyIAbaW5w8OEOmr0BI/edit?usp=sharing
