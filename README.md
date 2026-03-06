@@ -15,3 +15,7 @@ Quais pontos do sistema você considera mais críticos para teste?
 ## Casos de teste
 Os cenários e casos de teste foram documentados na planilha abaixo:
 https://docs.google.com/spreadsheets/d/1P9_lkNOPuWbMjK42TXWorNKrJoyIAbaW5w8OEOmr0BI/edit?usp=sharing
+
+## Evidências de Teste
+As evidências e capturas de tela dos testes realizados estão disponíveis no documento abaixo:
+https://docs.google.com/document/d/1d69LxZEFJiyPBe1QM4oA0QSbLrcaIS2F/edit?usp=sharing&ouid=107109538030229279579&rtpof=true&sd=true
